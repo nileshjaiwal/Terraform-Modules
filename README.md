@@ -2,7 +2,7 @@
 
 ## Description
 
-This module is to create the AWS EC2 instance with Security Groups.
+This module is to create the AWS EC2 instance and Security Groups. Once Both the resources got created security group will get attached to EC2 instance.
 
 ## Version
 
